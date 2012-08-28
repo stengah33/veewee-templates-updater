@@ -21,7 +21,7 @@ class VeeweeTemplatesUpdater
   end
 
   def veewee_tarball_url
-    "https://github.com/jedi4ever/veewee/tarball/master"
+    "https://github.com/stengah33/veewee/tarball/master"
   end
 
   def handle_entry(entry)
